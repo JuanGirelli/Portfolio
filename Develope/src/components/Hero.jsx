@@ -3,7 +3,7 @@ import HeroImage from "../assets/IMG_8485.jpg";
 
 function Hero() {
   return (
-    <div className="bg-black  text-white text-center py-16" id="hero">
+    <div className="bg-black  text-white text-center py-20" id="hero">
       <img
         src={HeroImage}
         alt="Hero"
@@ -16,7 +16,7 @@ function Hero() {
         </span>
         , Full-Stack Developer
       </h1>
-      <p className="mt-4 max-w-md px-4 mx-auto text-lg text-gray-300">
+      <p className="mt-4 max-w- px-4 mx-auto text-lg text-gray-300">
         I specialize in building high-quality websites and applications with a focus on user experience. I am passionate about creating functional websites that help businesses grow and succeed.
       </p>
       <div className="mt-8 space-x-4">

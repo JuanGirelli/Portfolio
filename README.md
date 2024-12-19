@@ -99,3 +99,4 @@ Currently, two official plugins are available:
  - **GitHub**: [Juan Girelli](https://github.com/JuanGirelli)
 
 
+

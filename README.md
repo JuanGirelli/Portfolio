@@ -40,10 +40,49 @@ Currently, two official plugins are available:
 
 
 ## Deployed Application
-[View the Portfolio on Netlify](https://your-netlify-deployment-url.netlify.app)
+[View the Portfolio on Netlify](https://spiffy-biscuit-3e8863.netlify.app/)
+
 
 ## Screenshots
-![Portfolio Screenshot](./assets/portfolio-screenshot.png)
+## Home
+
+The Home page is the landing page of the portfolio, providing a welcoming introduction and quick navigation to other sections.
+
+![Home Page Screenshot](./Develope/src/assets/ScreenShots/Home.png)
+
+---
+
+## About Me
+
+The About Me page includes a brief biography, a photo, and an overview of my background and skills.
+
+![About Me Page Screenshot](./Develope/src/assets/ScreenShots/About.png)
+
+---
+
+## Resume
+
+The Resume page features my professional experience, educational background, and skills in an easily readable format.
+
+![Resume Page Screenshot](./Develope/src/assets/ScreenShots/Resume.png)
+
+---
+
+## Portfolio
+
+The Portfolio page highlights my completed projects with links to deployed applications and GitHub repositories.
+
+![Portfolio Page Screenshot](./Develope/src/assets/ScreenShots/Projects.png)
+
+---
+
+## Contact
+
+The Contact page allows users to get in touch with me via a form or other provided contact information.
+
+![Contact Page Screenshot](./Develope/src/assets/ScreenShots/Contact.png)
+
+---
 
 ## Usage
 1. Navigate through the portfolio using the navigation bar.

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import bookflixImage from '../assets/bookflix_1.png';
 import TaskManagerImage from '../assets/TaskManager.png';
 import PortfolioImage from '../assets/Portfolio.png';
@@ -27,7 +28,7 @@ const projects = [
     technologies: "React | Tailwind CSS | Vite",
     image: PortfolioImage,
     github: "https://github.com/JuanGirelli/Bookflix",
-    website: "https://bookms.example.com",
+    website:"https://spiffy-biscuit-3e8863.netlify.app/",
   },
   {
     id: 4,

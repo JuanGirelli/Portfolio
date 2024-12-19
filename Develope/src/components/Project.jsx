@@ -2,6 +2,7 @@ import React from 'react';
 import bookflixImage from '../assets/bookflix_1.png';
 import TaskManagerImage from '../assets/TaskManager.png';
 import PortfolioImage from '../assets/Portfolio.png';
+import ComingSoonImage from  '../assets/comingsoonpage.jpg'
 
 const projects = [
   {
@@ -32,7 +33,7 @@ const projects = [
     id: 4,
     name: "Book MS",
     technologies: "MERN Stack",
-    image: bookflixImage,
+    image: ComingSoonImage,
     github: "https://github.com/YouafKhan1",
     website: "https://bookms.example.com",
   },
@@ -40,7 +41,7 @@ const projects = [
     id: 5,
     name: "Book MS",
     technologies: "MERN Stack",
-    image: bookflixImage,
+    image: ComingSoonImage,
     github: "https://github.com/YouafKhan1",
     website: "https://bookms.example.com",
   },
@@ -48,7 +49,7 @@ const projects = [
     id: 6,
     name: "Book MS",
     technologies: "MERN Stack",
-    image: bookflixImage,
+    image: ComingSoonImage,
     github: "https://github.com/YouafKhan1",
     website: "https://bookms.example.com",
   },
